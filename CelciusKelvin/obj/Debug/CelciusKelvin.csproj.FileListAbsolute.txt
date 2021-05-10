@@ -1,0 +1,7 @@
+C:\Users\Vigneshwarr S\source\repos\CelciusKelvin\bin\Debug\CelciusKelvin.exe.config
+C:\Users\Vigneshwarr S\source\repos\CelciusKelvin\bin\Debug\CelciusKelvin.exe
+C:\Users\Vigneshwarr S\source\repos\CelciusKelvin\bin\Debug\CelciusKelvin.pdb
+C:\Users\Vigneshwarr S\source\repos\CelciusKelvin\obj\Debug\CelciusKelvin.csprojAssemblyReference.cache
+C:\Users\Vigneshwarr S\source\repos\CelciusKelvin\obj\Debug\CelciusKelvin.csproj.CoreCompileInputs.cache
+C:\Users\Vigneshwarr S\source\repos\CelciusKelvin\obj\Debug\CelciusKelvin.exe
+C:\Users\Vigneshwarr S\source\repos\CelciusKelvin\obj\Debug\CelciusKelvin.pdb
